@@ -9,6 +9,4 @@ Updates,
 
 and more updates
 
-and more updates
-and more updates
-and more updates
+
